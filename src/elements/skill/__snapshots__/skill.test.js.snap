@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a green label for the web category 1`] = `
+<span
+  className="uk-label uk-margin-right"
+  style={
+    Object {
+      "backgroundColor": "#29BF12",
+    }
+  }
+/>
+`;
+
+exports[`should render a navy label for the bigdata category 1`] = `
+<span
+  className="uk-label uk-margin-right"
+  style={
+    Object {
+      "backgroundColor": "#2F4858",
+    }
+  }
+/>
+`;
+
+exports[`should render a red label for the devops category 1`] = `
+<span
+  className="uk-label uk-margin-right"
+  style={
+    Object {
+      "backgroundColor": "#D63230",
+    }
+  }
+/>
+`;
+
+exports[`should render an orange label for the microservices category 1`] = `
+<span
+  className="uk-label uk-margin-right"
+  style={
+    Object {
+      "backgroundColor": "#FF9914",
+    }
+  }
+/>
+`;
